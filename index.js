@@ -13,6 +13,6 @@ function destructivelyRemoveLastKitten(name){
   kittens.pop("name")
 }
 
-function destructivelyRemoveFirstKitten(Milo){
-  kittens.shift("Milo")
+function destructivelyRemoveFirstKitten(name){
+  kittens.shift("name")
 }
