@@ -24,3 +24,7 @@ function appendKitten(Broom) {
 function prependKitten(name){
   return [name, ...kittens]
 }
+
+function removeLastKitten(name){
+  return kittens.slice("name")
+}
